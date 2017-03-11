@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title> </title>
+  
+  
+  <script src="js/title.js"></script>
+  
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script>
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+$(document).keydown(function(event){
+    if(event.keyCode==123){
+    return false;
+   }
+else if(event.ctrlKey && event.shiftKey && event.keyCode==73){        
+      return false;
+   }
+else if(event.ctrlKey && event.shiftKey && event.keyCode==67){        
+      return false;
+   }
+else if(event.ctrlKey && event.keyCode==85){        
+      return false;
+   }
+});
+	</script>
+  
+</head>
+
+<body background="http://i.imgur.com/HFfidhe.png">
+
+    <script src="js/index.js"></script>
+	
+<audio autoplay="" loop="" id="player">
+	<source src="musa/xxx.mp3" type="audio/mp3">
+	<script>
+	var audio = document.currentScript.parentElement;
+	audio.volume = 0.3;
+	</script>
+</audio>
+</body>
+</html>
