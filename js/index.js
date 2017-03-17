@@ -6,7 +6,7 @@ var skills = [
 	'LEGACY',
     'TOFI',
     'ATSUKI',
-	'SPOOKIE',
+	'SUICIDE',
 ].map(function (s) { return s + "."; });
 var delay = 2;
 var step = 1;
