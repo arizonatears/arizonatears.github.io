@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = [ "arizona", "tears ", "$$$$", "1 tapp laff", "$$$$ ", "arizona", "", "tears", "1 tap laff", "$$$$", "arizona", "tears", "1 tapp laff", "$$$$"];
+var titleText = [ "arizona", "tears", "$$$$", "1 tapp laff", "$$$$", "arizona", "", "tears", "1 tap laff", "$$$$", "arizona", "tears", "1 tapp laff", "$$$$"];
 
 function loop() {
 
