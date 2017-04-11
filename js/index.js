@@ -6,7 +6,9 @@ var skills = [
 	'LEGACY',
     'TOFI',
     'ATSUKI',
-	'OLLIE'
+	'OLLIE',
+	'CHA',
+	'NADENATE'
 	
 ].map(function (s) { return s + "."; });
 var delay = 2;
