@@ -5,10 +5,11 @@ var skills = [
     'ATSUKI',
 	'OLLIE',
 	'CHA',
-	'NADENATE',
+	'ZERO',
 	'LEGACY',
 	'LOLZY',
-	'TOFI'
+	'TOFI',
+	'FAZ'
 	
 ].map(function (s) { return s + "."; });
 var delay = 2;
