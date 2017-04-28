@@ -9,7 +9,8 @@ var skills = [
 	'LEGACY',
 	'LOLZY',
 	'TOFI',
-	'FAZ'
+	'FAZ',
+	'DREAMER'
 	
 ].map(function (s) { return s + "."; });
 var delay = 2;
