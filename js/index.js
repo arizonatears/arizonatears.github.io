@@ -10,7 +10,7 @@ var skills = [
 	'LOLZY',
 	'TOFI',
 	'FAZ',
-	'DREAMER'
+	'DREAMER',
 	'LONELY'
 	
 ].map(function (s) { return s + "."; });
