@@ -11,6 +11,7 @@ var skills = [
 	'TOFI',
 	'FAZ',
 	'DREAMER'
+	'LONELY'
 	
 ].map(function (s) { return s + "."; });
 var delay = 2;
