@@ -2,16 +2,15 @@
 var prefix = 'Our Squad: ';
 var skills = [
     'MAESTRO',
-    'ATSUKI',
-	'OLLIE',
+    'ASPETTA',
 	'CHA',
-	'ZERO',
 	'LEGACY',
 	'LOLZY',
-	'TOFI',
-	'FAZ',
+	'LONELY',
 	'DREAMER',
-	'LONELY'
+	'TOFI',
+	'KACPER',
+	'AVESY'
 	
 ].map(function (s) { return s + "."; });
 var delay = 2;
