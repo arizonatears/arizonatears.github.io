@@ -2,10 +2,9 @@
 var prefix = 'Our Squad: ';
 var skills = [
     'MAESTRO',
-    'ASPETTA',
-	'CHA',
+    'LOLZY',
 	'LEGACY',
-	'LOLZY',
+	'ASPETTA',
 	'LONELY',
 	'DREAMER',
 	'TOFI',
